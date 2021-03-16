@@ -21,5 +21,5 @@ Artefatos dos documentos do projeto:
     - Lembrando antes de importar precisa criar primeiro o schema com nome 'biblioteca'
  
 ## Equipe de Desenvolvimento:	
-[<img src="https://avatars2.githubusercontent.com/u/29286962" width="200px;"/><br><sub><b>Larrissa Dantas</b></sub>](https://github.com/LarrissaDantas) | [<img src="https://avatars.githubusercontent.com/u/11711338" width="200px;"/><br><sub><b>Geovannio Vinhas</b></sub>](https://github.com/zemalay) | 	
+[<img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px;"/><br><sub><b>Cristiano</b></sub>](https://github.com/CristianoFIlho) | [<img src="https://avatars.githubusercontent.com/u/32720912?s=400&u=6377dc731aea2265cd15f9ddd5324b5904b5ac3d&v=4" width="200px;"/><br><sub><b>Geovannio Vinhas</b></sub>](wlfrotaneto) | 	
 :---: | ---
