@@ -20,6 +20,6 @@ Artefatos dos documentos do projeto:
     - biblioteca/doc/SQL/
     - Lembrando antes de importar precisa criar primeiro o schema com nome 'biblioteca'
  
-## Equipe de Desenvolvimento:	
+## Equipe de Desenvolvimento Teste e qualidade:	
 [<img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px;"/><br><sub><b>Cristiano</b></sub>](https://github.com/CristianoFIlho) | [<img src="https://avatars.githubusercontent.com/u/32720912?s=400&u=6377dc731aea2265cd15f9ddd5324b5904b5ac3d&v=4" width="200px;"/><br><sub><b>Walter Frota</b></sub>](wlfrotaneto) | 	
 :---: | ---
