@@ -28,6 +28,6 @@ Artefatos dos documentos do projeto:
  
 ## Equipe de Desenvolvimento Teste e qualidade:	
 
-[<img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px;"/><br><sub><b>Cristiano Filho</b></sub>](https://github.com/CristianoFilho) | [<img src="https://avatars.githubusercontent.com/u/32720912?s=400&u=6377dc731aea2265cd15f9ddd5324b5904b5ac3d&v=4" width="200px;"/><br><sub><b>Geovannio Vinhas</b></sub>](https://github.com/zemalay) | 	
+[<img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px;"/><br><sub><b>Cristiano Filho</b></sub>](https://github.com/CristianoFilho) | [<img src="https://avatars.githubusercontent.com/u/32720912?s=400&u=6377dc731aea2265cd15f9ddd5324b5904b5ac3d&v=4" width="200px;"/><br><sub><b>Wanter Frota</b></sub>](https://github.com/zemalay) | 	
 :---: | ---
 
