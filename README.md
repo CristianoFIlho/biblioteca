@@ -39,7 +39,7 @@ Artefatos dos documentos do projeto:
 
 
 
- [<img src=" https://avatars.githubusercontent.com/u/65327084?s=400&v=4" width="200px;"/><br><sub><b>Gabriel Barreto</b></sub>](https://github.com/Gabrielbveloso)
+ <hr> [<img src=" https://avatars.githubusercontent.com/u/65327084?s=400&v=4" width="200px;"/><br><sub><b>Gabriel Barreto</b></sub>](https://github.com/Gabrielbveloso)
 
 
 
