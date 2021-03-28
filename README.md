@@ -33,6 +33,7 @@ Artefatos dos documentos do projeto:
 
 [<img src="https://avatars.githubusercontent.com/u/32720912?s=400&u=6377dc731aea2265cd15f9ddd5324b5904b5ac3d&v=4" width="200px;"/><br><sub><b>Wanter Frota</b></sub>](https://github.com/wlfrotaneto) | 	 [<img src="https://avatars.githubusercontent.com/u/54105504?s=400&v=4" width="200px;"/><br><sub><b>Bernardo Guimaraes</b></sub>](https://github.com/BernardoGuimaraes) |
 :---: | ---
+[<img src="https://avatars.githubusercontent.com/u/40579262?v=4" width="200px;"/><br><sub><b>Rodrigo Fiuza</b></sub>](https://github.com/Fiuza0) | 	 
 
 
  
