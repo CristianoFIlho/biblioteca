@@ -52,16 +52,16 @@ public class AlunoDAOTest {
 		relacoes = new Curso("Relacoes Int", TipoNivel.GRADUACAO, "Sociais");
 
 		aluno1 = new Aluno("", "435", "34331", "Lula", "Dina", "Brasil", "Sao Paulo", "9893434", null, "2016", "2",
-				"dsenr");
+				"dsenr", "senha");
 
 		aluno2 = new Aluno("", "wedfd", "0634.401-21", "Kaio", "Dilma", "Brasil", "Jooa Pessoa", "9893434", null,
-				"2016", "2", "eriaa");
+				"2016", "2", "eriaa", "senha");
 
 		aluno3 = new Aluno("", "4s3", "164.002-92", "Herculer", "Jean", "Brasil", "Recife", "9893434", null, "2011",
-				"1", "lsjoin");
+				"1", "lsjoin", "senha");
 
 		aluno4 = new Aluno("", "dsd23", "236002-02", "Hermano", "Jeni", "Timor", "Forta", "98475", null, "2017", "2",
-				"BHYD");
+				"BHYD", "senha");
 	}
 
 	@Test

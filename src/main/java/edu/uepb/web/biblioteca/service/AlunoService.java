@@ -32,6 +32,14 @@ public class AlunoService {
 	private ReservaDAOImpl reservaDAO;
 	private UniversidadeDAOImpl universidadeDAO;
 
+	public AlunoService() {
+
+	}
+	
+	public AlunoService(AlunoDAOImpl alunoDAO) {
+		this.alunoDAO = alunoDAO;
+	}
+
 	/**
 	 * Autenticar aluno
 	 * 
